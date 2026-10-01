@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeet Routh
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=JEET%20ROUTH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
