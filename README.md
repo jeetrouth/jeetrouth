@@ -1,4 +1,4 @@
-
+# 👋 Hi, I'm Jeet Routh
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=JEET%20ROUTH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
@@ -43,12 +43,12 @@ I enjoy turning ideas into working applications — from healthcare and communit
 
 ### Open To
 
-* Full-Stack Development
-* Software Engineering Internships
-* AI / ML Projects
-* Open Source Collaboration
-* Hackathons & Engineering Projects
-* Product Development
+- Full-Stack Development
+- Software Engineering Internships
+- AI / ML Projects
+- Open Source Collaboration
+- Hackathons & Engineering Projects
+- Product Development
 
 ---
 
@@ -82,14 +82,14 @@ I enjoy turning ideas into working applications — from healthcare and communit
 
 ## AI / ML Expertise
 
-| Domain                     | Proficiency | Details                                                            |
-| -------------------------- | ----------- | ------------------------------------------------------------------ |
-| Local AI                   | Developing  | Building privacy-focused applications around locally hosted models |
-| AI Application Development | Developing  | Integrating AI capabilities into practical software products       |
-| Computer Vision            | Developing  | Exploring on-device perception and browser vision systems          |
-| AI Agents                  | Developing  | Exploring memory, local models and agent architectures             |
-| Data Analytics             | Developing  | Data analysis, visualization and business-oriented insights        |
-| Privacy-Preserving AI      | Developing  | Designing systems that minimize unnecessary cloud data exposure    |
+| Domain | Proficiency | Details |
+|---|---|---|
+| Local AI | Developing | Building privacy-focused applications around locally hosted models |
+| AI Application Development | Developing | Integrating AI capabilities into practical software products |
+| Computer Vision | Developing | Exploring on-device perception and browser vision systems |
+| AI Agents | Developing | Exploring memory, local models and agent architectures |
+| Data Analytics | Developing | Data analysis, visualization and business-oriented insights |
+| Privacy-Preserving AI | Developing | Designing systems that minimize unnecessary cloud data exposure |
 
 ---
 
@@ -102,21 +102,21 @@ I enjoy turning ideas into working applications — from healthcare and communit
 
 A privacy-focused local AI platform designed around keeping AI workloads and data closer to the user instead of depending entirely on external cloud APIs.
 
-| Category         | Details                                                             |
-| ---------------- | ------------------------------------------------------------------- |
-| **Stack**        | JavaScript, Node.js, Local AI                                       |
-| **Architecture** | Local-first AI workflow                                             |
-| **Security**     | Privacy-focused architecture                                        |
-| **Performance**  | Local model execution                                               |
-| **Impact**       | Enables AI interaction without relying exclusively on external APIs |
-| **Repository**   | [GitHub](https://github.com/jeetrouth)                              |
+| Category | Details |
+|---|---|
+| **Stack** | JavaScript, Node.js, Local AI |
+| **Architecture** | Local-first AI workflow |
+| **Security** | Privacy-focused architecture |
+| **Performance** | Local model execution |
+| **Impact** | Enables AI interaction without relying exclusively on external APIs |
+| **Repository** | [GitHub](https://github.com/jeetrouth) |
 
 **Key Work**
 
-* Built secure authentication and user dashboards.
-* Integrated a local AI model pipeline.
-* Designed responsive interfaces focused on usability.
-* Explored privacy-first AI architecture.
+- Built secure authentication and user dashboards.
+- Integrated a local AI model pipeline.
+- Designed responsive interfaces focused on usability.
+- Explored privacy-first AI architecture.
 
 </details>
 
@@ -127,21 +127,21 @@ A privacy-focused local AI platform designed around keeping AI workloads and dat
 
 A full-stack healthcare platform designed to streamline patient registration, appointment booking, and healthcare service management.
 
-| Category        | Details                                              |
-| --------------- | ---------------------------------------------------- |
-| **Stack**       | Node.js, JavaScript, REST APIs                       |
-| **Scale**       | Full-stack application                               |
-| **Performance** | Streamlined workflow management                      |
-| **Security**    | Authentication and healthcare-focused workflows      |
-| **Impact**      | Reduced manual coordination between healthcare users |
-| **Repository**  | [GitHub](https://github.com/jeetrouth)               |
+| Category | Details |
+|---|---|
+| **Stack** | Node.js, JavaScript, REST APIs |
+| **Scale** | Full-stack application |
+| **Performance** | Streamlined workflow management |
+| **Security** | Authentication and healthcare-focused workflows |
+| **Impact** | Reduced manual coordination between healthcare users |
+| **Repository** | [GitHub](https://github.com/jeetrouth) |
 
 **Key Work**
 
-* Implemented patient and provider workflow management.
-* Built RESTful backend services.
-* Designed a clean and accessible frontend.
-* Focused on reducing manual coordination overhead.
+- Implemented patient and provider workflow management.
+- Built RESTful backend services.
+- Designed a clean and accessible frontend.
+- Focused on reducing manual coordination overhead.
 
 </details>
 
@@ -152,21 +152,21 @@ A full-stack healthcare platform designed to streamline patient registration, ap
 
 An accessibility-focused community platform connecting users with local services and volunteer opportunities.
 
-| Category          | Details                                            |
-| ----------------- | -------------------------------------------------- |
-| **Stack**         | HTML, CSS, JavaScript                              |
-| **Focus**         | Accessibility & community engagement               |
-| **Accessibility** | WCAG-oriented design                               |
-| **Performance**   | Responsive user experience                         |
-| **Impact**        | Simplified discovery of services and opportunities |
-| **Repository**    | [GitHub](https://github.com/jeetrouth)             |
+| Category | Details |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Focus** | Accessibility & community engagement |
+| **Accessibility** | WCAG-oriented design |
+| **Performance** | Responsive user experience |
+| **Impact** | Simplified discovery of services and opportunities |
+| **Repository** | [GitHub](https://github.com/jeetrouth) |
 
 **Key Work**
 
-* Prioritized accessibility for diverse users.
-* Developed intuitive engagement flows.
-* Built responsive interfaces.
-* Focused on improving interaction with service listings.
+- Prioritized accessibility for diverse users.
+- Developed intuitive engagement flows.
+- Built responsive interfaces.
+- Focused on improving interaction with service listings.
 
 </details>
 
@@ -177,13 +177,13 @@ An accessibility-focused community platform connecting users with local services
 
 A responsive portfolio website created to showcase projects, technical skills and achievements.
 
-| Category        | Details                                |
-| --------------- | -------------------------------------- |
-| **Stack**       | HTML, CSS, JavaScript                  |
-| **Design**      | Responsive                             |
-| **Performance** | Optimized for mobile and desktop       |
-| **Purpose**     | Professional portfolio                 |
-| **Repository**  | [GitHub](https://github.com/jeetrouth) |
+| Category | Details |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Design** | Responsive |
+| **Performance** | Optimized for mobile and desktop |
+| **Purpose** | Professional portfolio |
+| **Repository** | [GitHub](https://github.com/jeetrouth) |
 
 </details>
 
@@ -195,10 +195,10 @@ A responsive portfolio website created to showcase projects, technical skills an
 
 **Government College of Engineering and Ceramic Technology**
 
-* Led cross-functional student teams across planning, execution, documentation and presentations.
-* Facilitated weekly synchronization meetings.
-* Managed task delegation and project responsibilities.
-* Worked toward on-time project delivery.
+- Led cross-functional student teams across planning, execution, documentation and presentations.
+- Facilitated weekly synchronization meetings.
+- Managed task delegation and project responsibilities.
+- Worked toward on-time project delivery.
 
 `Project Coordination` `Leadership` `Team Management` `Documentation`
 
@@ -208,13 +208,13 @@ A responsive portfolio website created to showcase projects, technical skills an
 
 <div align="center">
 
-| Recognition               | Details                                                         |
-| ------------------------- | --------------------------------------------------------------- |
-| 🏆 Project Development    | Built multiple full-stack and AI-focused engineering projects   |
-| 🧠 AI Engineering         | Exploring local AI, privacy-preserving AI and agent systems     |
-| 💻 Full-Stack Development | Developed healthcare, community and portfolio applications      |
-| 👥 Team Coordination      | Coordinated cross-functional student engineering projects       |
-| 🚀 Engineering Projects   | Active participation in engineering-focused project development |
+| Recognition | Details |
+|---|---|
+| 🏆 Project Development | Built multiple full-stack and AI-focused engineering projects |
+| 🧠 AI Engineering | Exploring local AI, privacy-preserving AI and agent systems |
+| 💻 Full-Stack Development | Developed healthcare, community and portfolio applications |
+| 👥 Team Coordination | Coordinated cross-functional student engineering projects |
+| 🚀 Engineering Projects | Active participation in engineering-focused project development |
 
 </div>
 
@@ -224,12 +224,12 @@ A responsive portfolio website created to showcase projects, technical skills an
 
 ### Forage
 
-* **Deloitte Data Analytics Job Simulation** — 2026
-* **Tata Data Visualisation: Empowering Business with Effective Insights** — 2026
+- **Deloitte Data Analytics Job Simulation** — 2026
+- **Tata Data Visualisation: Empowering Business with Effective Insights** — 2026
 
 ### TCS
 
-* **TCS iON Career Edge — Young Professional** — 2026
+- **TCS iON Career Edge — Young Professional** — 2026
 
 <p>
 <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-6D28D9?style=flat-square"/>
@@ -242,12 +242,24 @@ A responsive portfolio website created to showcase projects, technical skills an
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeetrouth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetrouth&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jeetrouth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetrouth&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jeetrouth&theme=transparent&hide_border=true&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="65%"/>
+  <img
+    src="https://streak-stats.demolab.com?user=jeetrouth&theme=transparent&hide_border=true&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"
+    width="65%"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -255,7 +267,11 @@ A responsive portfolio website created to showcase projects, technical skills an
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeetrouth&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
+  <img
+    src="./profile/trophy.svg"
+    width="90%"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -263,7 +279,11 @@ A responsive portfolio website created to showcase projects, technical skills an
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetrouth&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jeetrouth&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
@@ -272,9 +292,19 @@ A responsive portfolio website created to showcase projects, technical skills an
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
   </picture>
 </p>
 
@@ -306,36 +336,3 @@ open_to:
   - AI / ML Projects
   - Hackathons
   - Collaborative Engineering Projects
-```
-
----
-
-## Connect
-
-<p align="center">
-
-<a href="mailto:jeetgcect@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-jeetgcect%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jeet-routh-643b18386">
-<img src="https://img.shields.io/badge/LinkedIn-Jeet%20Routh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jeetrouth">
-<img src="https://img.shields.io/badge/GitHub-jeetrouth-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<strong>Building useful software, exploring intelligent systems, and learning something new every day.</strong>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</p>
