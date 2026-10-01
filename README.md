@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+Privacy-First+Applications;Open+Source+%26+Engineering+Projects" alt="Typing SVG"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+Privacy-First+Applications;Open+Source+%26+Engineering+Projects"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -26,9 +29,18 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeetrouth&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/jeetrouth?style=flat-square&color=4F46E5&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/jeetrouth?style=flat-square&color=7C3AED&label=STARS"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=jeetrouth&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/jeetrouth?style=flat-square&color=4F46E5&label=FOLLOWERS"
+    alt="Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/jeetrouth?style=flat-square&color=7C3AED&label=STARS"
+    alt="Stars"
+  />
 </p>
 
 ---
@@ -57,25 +69,25 @@ I enjoy turning ideas into working applications — from healthcare and communit
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,postman" />
 </p>
 
 ---
@@ -232,9 +244,9 @@ A responsive portfolio website created to showcase projects, technical skills an
 - **TCS iON Career Edge — Young Professional** — 2026
 
 <p>
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Forage-Data%20Visualisation-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Forage-Data%20Visualisation-4F46E5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge-7C3AED?style=flat-square"/>
 </p>
 
 ---
@@ -291,21 +303,11 @@ A responsive portfolio website created to showcase projects, technical skills an
 ## Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
