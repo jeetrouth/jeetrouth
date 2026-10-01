@@ -1,114 +1,341 @@
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeet%20Routh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20%26%20Local%20AI&descAlignY=58&descSize=18" width="100%" alt="Jeet Routh"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=JEET%20ROUTH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jeetrouth"><img src="https://img.shields.io/badge/GitHub-jeetrouth-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/jeet-routh-643b18386"><img src="https://img.shields.io/badge/LinkedIn-Jeet%20Routh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jeetgcect@gmail.com"><img src="https://img.shields.io/badge/Email-jeetgcect%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+Privacy-First+Applications;Open+Source+%26+Engineering+Projects" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-GCECT-6D28D9?style=flat-square" alt="GCECT"/>
-  <img src="https://img.shields.io/badge/Kolkata%2C%20India-4F46E5?style=flat-square" alt="Kolkata"/>
-  <img src="https://komarev.com/ghpvc/?username=jeetrouth&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/jeetrouth?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/badge/GCECT-B.Tech%20CSE-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kolkata%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+Privacy-First+Applications;Open+to+Internships+%26+Collaboration" alt="Typing SVG"/>
+  <a href="https://github.com/jeetrouth">
+    <img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jeet-routh-643b18386">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jeetgcect@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
-
-## 👋 About
-
-I'm a Computer Science & Engineering student at **Government College of Engineering and Ceramic Technology (GCECT)**. I build practical software — healthcare, community and local-AI products — with a focus on usability, performance and clean engineering.
-
-**Interests:** full-stack development · local & privacy-preserving AI · AI agents · computer vision · data analytics
-
-**Open to:** software engineering internships · open source · AI/ML projects · hackathons
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&perline=6" alt="Languages and web"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&perline=5" alt="Frameworks"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&perline=4" alt="Databases"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&perline=5" alt="Tools"/>
+  <img src="https://komarev.com/ghpvc/?username=jeetrouth&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/jeetrouth?style=flat-square&color=4F46E5&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/jeetrouth?style=flat-square&color=7C3AED&label=STARS"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-| Project | What it is | Stack |
-| ------- | ---------- | ----- |
-| **Pullo** | Privacy-focused local AI platform that runs models locally instead of relying only on cloud APIs. Secure auth, user dashboards, local model pipeline. | JavaScript, Node.js, Local AI |
-| **ReMedi** | Full-stack healthcare platform for patient registration, appointment booking and service management. | Node.js, JavaScript, REST APIs |
-| **SevaSetu** | Accessibility-focused platform connecting people with local services and volunteer opportunities (WCAG-oriented). | HTML, CSS, JavaScript |
-| **Portfolio** | Responsive personal website for projects, skills and achievements. | HTML, CSS, JavaScript |
+I'm a Computer Science & Engineering undergraduate at **Government College of Engineering and Ceramic Technology (GCECT)**, focused on building practical software products and developing strong engineering fundamentals.
 
-👉 Source code: [github.com/jeetrouth?tab=repositories](https://github.com/jeetrouth?tab=repositories)
+My interests span **full-stack development, AI/ML, data analytics, privacy-focused computing, and product engineering**.
 
----
+I enjoy turning ideas into working applications — from healthcare and community platforms to local AI systems — with an emphasis on usability, performance, and clean engineering.
 
-## 🤖 AI / ML Focus
+### Open To
 
-| Area | Status |
-| ---- | ------ |
-| Local AI & privacy-preserving AI | Building |
-| AI application development | Building |
-| AI agents (memory, local models) | Exploring |
-| Computer vision (on-device / browser) | Exploring |
-| Data analytics & visualization | Learning |
+* Full-Stack Development
+* Software Engineering Internships
+* AI / ML Projects
+* Open Source Collaboration
+* Hackathons & Engineering Projects
+* Product Development
 
 ---
 
-## 💼 Experience
+## Tech Stack
 
-**Project Team Coordinator — GCECT Engineering Projects**
+### Languages
 
-Led cross-functional student teams across planning, execution, documentation and presentations; ran weekly syncs and task delegation to keep projects on schedule.
-
----
-
-## 📜 Certifications
-
-- **Deloitte Data Analytics Job Simulation** — Forage, 2026
-- **Tata Data Visualisation: Empowering Business with Effective Insights** — Forage, 2026
-- **TCS iON Career Edge — Young Professional** — TCS, 2026
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeetrouth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetrouth&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170" alt="Top languages"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jeetrouth&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="65%" alt="Streak stats"/>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,postman"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## AI / ML Expertise
 
-- **Learning:** Data Structures & Algorithms, advanced full-stack, AI/ML engineering
-- **Building:** privacy-first AI apps, full-stack projects, developer tools
-- **Exploring:** on-device AI, local LLMs, computer vision, agent architectures
+| Domain                     | Proficiency | Details                                                            |
+| -------------------------- | ----------- | ------------------------------------------------------------------ |
+| Local AI                   | Developing  | Building privacy-focused applications around locally hosted models |
+| AI Application Development | Developing  | Integrating AI capabilities into practical software products       |
+| Computer Vision            | Developing  | Exploring on-device perception and browser vision systems          |
+| AI Agents                  | Developing  | Exploring memory, local models and agent architectures             |
+| Data Analytics             | Developing  | Data analysis, visualization and business-oriented insights        |
+| Privacy-Preserving AI      | Developing  | Designing systems that minimize unnecessary cloud data exposure    |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>🚀 Pullo — Local AI Platform</strong></summary>
+
+### Pullo
+
+A privacy-focused local AI platform designed around keeping AI workloads and data closer to the user instead of depending entirely on external cloud APIs.
+
+| Category         | Details                                                             |
+| ---------------- | ------------------------------------------------------------------- |
+| **Stack**        | JavaScript, Node.js, Local AI                                       |
+| **Architecture** | Local-first AI workflow                                             |
+| **Security**     | Privacy-focused architecture                                        |
+| **Performance**  | Local model execution                                               |
+| **Impact**       | Enables AI interaction without relying exclusively on external APIs |
+| **Repository**   | [GitHub](https://github.com/jeetrouth)                              |
+
+**Key Work**
+
+* Built secure authentication and user dashboards.
+* Integrated a local AI model pipeline.
+* Designed responsive interfaces focused on usability.
+* Explored privacy-first AI architecture.
+
+</details>
+
+<details>
+<summary><strong>💊 ReMedi — Healthcare Management Platform</strong></summary>
+
+### ReMedi
+
+A full-stack healthcare platform designed to streamline patient registration, appointment booking, and healthcare service management.
+
+| Category        | Details                                              |
+| --------------- | ---------------------------------------------------- |
+| **Stack**       | Node.js, JavaScript, REST APIs                       |
+| **Scale**       | Full-stack application                               |
+| **Performance** | Streamlined workflow management                      |
+| **Security**    | Authentication and healthcare-focused workflows      |
+| **Impact**      | Reduced manual coordination between healthcare users |
+| **Repository**  | [GitHub](https://github.com/jeetrouth)               |
+
+**Key Work**
+
+* Implemented patient and provider workflow management.
+* Built RESTful backend services.
+* Designed a clean and accessible frontend.
+* Focused on reducing manual coordination overhead.
+
+</details>
+
+<details>
+<summary><strong>🤝 SevaSetu — Community Service Platform</strong></summary>
+
+### SevaSetu
+
+An accessibility-focused community platform connecting users with local services and volunteer opportunities.
+
+| Category          | Details                                            |
+| ----------------- | -------------------------------------------------- |
+| **Stack**         | HTML, CSS, JavaScript                              |
+| **Focus**         | Accessibility & community engagement               |
+| **Accessibility** | WCAG-oriented design                               |
+| **Performance**   | Responsive user experience                         |
+| **Impact**        | Simplified discovery of services and opportunities |
+| **Repository**    | [GitHub](https://github.com/jeetrouth)             |
+
+**Key Work**
+
+* Prioritized accessibility for diverse users.
+* Developed intuitive engagement flows.
+* Built responsive interfaces.
+* Focused on improving interaction with service listings.
+
+</details>
+
+<details>
+<summary><strong>🌐 Personal Portfolio Website</strong></summary>
+
+### Personal Portfolio Website
+
+A responsive portfolio website created to showcase projects, technical skills and achievements.
+
+| Category        | Details                                |
+| --------------- | -------------------------------------- |
+| **Stack**       | HTML, CSS, JavaScript                  |
+| **Design**      | Responsive                             |
+| **Performance** | Optimized for mobile and desktop       |
+| **Purpose**     | Professional portfolio                 |
+| **Repository**  | [GitHub](https://github.com/jeetrouth) |
+
+</details>
+
+---
+
+## Experience
+
+### Project Team Coordinator — GCECT Engineering Projects
+
+**Government College of Engineering and Ceramic Technology**
+
+* Led cross-functional student teams across planning, execution, documentation and presentations.
+* Facilitated weekly synchronization meetings.
+* Managed task delegation and project responsibilities.
+* Worked toward on-time project delivery.
+
+`Project Coordination` `Leadership` `Team Management` `Documentation`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition               | Details                                                         |
+| ------------------------- | --------------------------------------------------------------- |
+| 🏆 Project Development    | Built multiple full-stack and AI-focused engineering projects   |
+| 🧠 AI Engineering         | Exploring local AI, privacy-preserving AI and agent systems     |
+| 💻 Full-Stack Development | Developed healthcare, community and portfolio applications      |
+| 👥 Team Coordination      | Coordinated cross-functional student engineering projects       |
+| 🚀 Engineering Projects   | Active participation in engineering-focused project development |
+
+</div>
+
+---
+
+## Certifications
+
+### Forage
+
+* **Deloitte Data Analytics Job Simulation** — 2026
+* **Tata Data Visualisation: Empowering Business with Effective Insights** — 2026
+
+### TCS
+
+* **TCS iON Career Edge — Young Professional** — 2026
+
+<p>
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Forage-Data%20Visualisation-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge-7C3AED?style=flat-square"/>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetrouth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetrouth&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jeetrouth&theme=transparent&hide_border=true&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="65%"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeetrouth&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetrouth&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Data Structures & Algorithms
+  - Advanced Full-Stack Development
+  - AI / ML Engineering
+  - Local AI & AI Agents
+
+building:
+  - Privacy-first AI applications
+  - Full-stack engineering projects
+  - Developer-focused tools
+
+exploring:
+  - On-device AI
+  - Computer Vision
+  - Local LLMs
+  - Intelligent Agent Architectures
+
+open_to:
+  - Open Source
+  - Software Engineering Opportunities
+  - AI / ML Projects
+  - Hackathons
+  - Collaborative Engineering Projects
+```
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="mailto:jeetgcect@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-jeetgcect%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jeet-routh-643b18386">
+<img src="https://img.shields.io/badge/LinkedIn-Jeet%20Routh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jeetrouth">
+<img src="https://img.shields.io/badge/GitHub-jeetrouth-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <strong>Building useful software, exploring intelligent systems, and learning something new every day.</strong>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
+<strong>Building useful software, exploring intelligent systems, and learning something new every day.</strong>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</p>
