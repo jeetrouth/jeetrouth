@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSE-GCECT-6D28D9?style=flat-square" alt="GCECT"/>
-  <img src="https://img.shields.io/badge/Kolkata%2C%20India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="Kolkata"/>
+  <img src="https://img.shields.io/badge/Kolkata%2C%20India-4F46E5?style=flat-square" alt="Kolkata"/>
   <img src="https://komarev.com/ghpvc/?username=jeetrouth&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/jeetrouth?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="Followers"/>
 </p>
@@ -33,14 +33,14 @@ I'm a Computer Science & Engineering student at **Government College of Engineer
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&perline=8" alt="Languages"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&perline=6" alt="Languages and web"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=8" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&perline=5" alt="Frameworks"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&perline=8" alt="Backend and databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&perline=4" alt="Databases"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&perline=8" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&perline=5" alt="Tools"/>
 </p>
 
 ---
@@ -49,21 +49,12 @@ I'm a Computer Science & Engineering student at **Government College of Engineer
 
 | Project | What it is | Stack |
 | ------- | ---------- | ----- |
-| **[Pullo](https://github.com/jeetrouth/pullo)** | Privacy-focused local AI platform — runs models locally instead of relying only on cloud APIs. Includes secure auth and user dashboards. | JavaScript, Node.js, Local AI |
-| **[ReMedi](https://github.com/jeetrouth/remedi)** | Full-stack healthcare platform for patient registration, appointment booking and service management. | Node.js, JavaScript, REST APIs |
-| **[SevaSetu](https://github.com/jeetrouth/sevasetu)** | Accessibility-focused platform connecting people with local services and volunteer opportunities (WCAG-oriented). | HTML, CSS, JavaScript |
-| **[Portfolio](https://github.com/jeetrouth/portfolio)** | Responsive personal portfolio for projects, skills and achievements. | HTML, CSS, JavaScript |
+| **Pullo** | Privacy-focused local AI platform that runs models locally instead of relying only on cloud APIs. Secure auth, user dashboards, local model pipeline. | JavaScript, Node.js, Local AI |
+| **ReMedi** | Full-stack healthcare platform for patient registration, appointment booking and service management. | Node.js, JavaScript, REST APIs |
+| **SevaSetu** | Accessibility-focused platform connecting people with local services and volunteer opportunities (WCAG-oriented). | HTML, CSS, JavaScript |
+| **Portfolio** | Responsive personal website for projects, skills and achievements. | HTML, CSS, JavaScript |
 
-<details>
-<summary><strong>More details on each project</strong></summary>
-
-**Pullo** — local-first AI workflow; integrated a local model pipeline; responsive UI; explored privacy-first architecture.
-
-**ReMedi** — patient/provider workflow management; RESTful backend; accessible frontend; reduces manual coordination.
-
-**SevaSetu** — accessibility first; intuitive engagement flows; responsive service listings.
-
-</details>
+👉 Source code: [github.com/jeetrouth?tab=repositories](https://github.com/jeetrouth?tab=repositories)
 
 ---
 
@@ -82,15 +73,16 @@ I'm a Computer Science & Engineering student at **Government College of Engineer
 ## 💼 Experience
 
 **Project Team Coordinator — GCECT Engineering Projects**
+
 Led cross-functional student teams across planning, execution, documentation and presentations; ran weekly syncs and task delegation to keep projects on schedule.
 
 ---
 
 ## 📜 Certifications
 
-[![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-6D28D9?style=flat-square)](https://www.theforage.com/)
-[![Tata](https://img.shields.io/badge/Tata-Data%20Visualisation-4F46E5?style=flat-square)](https://www.theforage.com/)
-[![TCS iON](https://img.shields.io/badge/TCS%20iON-Career%20Edge%20Young%20Professional-7C3AED?style=flat-square)](https://www.tcsion.com/)
+- **Deloitte Data Analytics Job Simulation** — Forage, 2026
+- **Tata Data Visualisation: Empowering Business with Effective Insights** — Forage, 2026
+- **TCS iON Career Edge — Young Professional** — TCS, 2026
 
 ---
 
@@ -102,11 +94,7 @@ Led cross-functional student teams across planning, execution, documentation and
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jeetrouth&theme=transparent&hide_border=true&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="65%" alt="Streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeetrouth/jeetrouth/output/github-snake-dark.svg" alt="Contribution snake"/>
+  <img src="https://streak-stats.demolab.com?user=jeetrouth&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="65%" alt="Streak stats"/>
 </p>
 
 ---
@@ -116,17 +104,6 @@ Led cross-functional student teams across planning, execution, documentation and
 - **Learning:** Data Structures & Algorithms, advanced full-stack, AI/ML engineering
 - **Building:** privacy-first AI apps, full-stack projects, developer tools
 - **Exploring:** on-device AI, local LLMs, computer vision, agent architectures
-
----
-
-## 🧑‍💻 Coding Profiles
-
-<p>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-Profile-22C55E?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-</p>
 
 ---
 
